@@ -1,6 +1,5 @@
 # Pagina-wed--gestion-e-informacion-de-la-Alcaldia-de-Pampan
-# Especificación de Requerimientos y Diseño del Sistema
-## Sistema Centralizado de Gestión Institucional y Orientación Ciudadana
+
 
 ### 1. Objetivo del Sistema
 Centralizar la gestión, publicación y difusión automatizada de información institucional, además de servir como una plataforma de orientación ciudadana para la gestión de trámites. El sistema busca eliminar la fragmentación informativa, reducir la dependencia de métodos manuales y mitigar la desinformación, garantizando la máxima transparencia, seguridad y eficiencia en la comunicación municipal.
