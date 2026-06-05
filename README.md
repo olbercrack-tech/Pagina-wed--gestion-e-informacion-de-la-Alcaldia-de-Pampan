@@ -9,27 +9,27 @@ Operador (Personal Administrativo): Usuario encargado de actualizar la informaci
 
 Ciudadano: Usuario que accede al portal para consultar información oficial y verificar los requisitos necesarios para realizar sus trámites (ej. actas de matrimonio, constancias).
 
-3. Procesos y Reglas de Negocio
-Publicación y Difusión:
+⚙️ 3. Procesos y Reglas de Negocio
+📢 Publicación y Difusión:
 
-Cualquier comunicado debe ser creado por un operador y pasar por un estado de "revisión" antes de ser publicado por el administrador.
+Cualquier comunicado debe ser creado por un operador y pasar por un estado de "revisión" antes de ser publicado por el administrador ✅.
 
-El sistema permite la difusión simultánea en redes sociales para evitar la duplicidad de tareas manuales.
+El sistema permite la difusión simultánea en redes sociales para evitar la duplicidad de tareas manuales 🚀.
 
-Orientación sobre Gestión de Documentos:
+📄 Orientación sobre Gestión de Documentos:
 
-Consulta de Requisitos: El ciudadano podrá navegar por la sección de trámites para visualizar el listado detallado de documentos, recaudos y pasos necesarios para obtener certificados (como actas de matrimonio u otros registros).
+Consulta de Requisitos: El ciudadano podrá navegar por la sección de trámites para visualizar el listado detallado de documentos, recaudos y pasos necesarios para obtener certificados (como actas de matrimonio u otros registros) 📋.
 
-Transparencia Administrativa: El sistema mostrará de forma clara qué necesita el ciudadano antes de acudir físicamente a la Alcaldía, optimizando el tiempo del usuario y reduciendo la carga operativa en las oficinas.
+Transparencia Administrativa: El sistema mostrará de forma clara qué necesita el ciudadano antes de acudir físicamente a la Alcaldía, optimizando el tiempo del usuario y reduciendo la carga operativa en las oficinas ⏳.
 
-Verificación Ciudadana:
+🔍 Verificación Ciudadana:
 
-Todo anuncio o guía informativa debe estar respaldado en el portal oficial, permitiendo al ciudadano validar la veracidad de los requisitos solicitados frente a rumores o noticias falsas.
+Todo anuncio o guía informativa debe estar respaldado en el portal oficial, permitiendo al ciudadano validar la veracidad de los requisitos solicitados frente a rumores o noticias falsas 🛡️.
 
-Repositorio Digital:
+🗂️ Repositorio Digital:
 
-La plataforma servirá como un archivo centralizado de información pública, migrando los manuales informativos físicos a un formato digital accesible y organizado.
+La plataforma servirá como un archivo centralizado de información pública, migrando los manuales informativos físicos a un formato digital accesible y organizado 🌐.
 
-Seguridad:
+🔒 Seguridad:
 
-El acceso al panel de gestión de contenidos estará protegido mediante credenciales seguras, superando la limitación actual de seguridad basada únicamente en direcciones MAC.
+El acceso al panel de gestión de contenidos estará protegido mediante credenciales seguras, superando la limitación actual de seguridad basada únicamente en direcciones MAC 🔐.
